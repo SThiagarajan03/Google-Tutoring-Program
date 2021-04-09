@@ -1,6 +1,0 @@
-There are a few things (in G Suite) that are necessary to have/create before the tutoring program can work as intended. To begin, the program will create a Google Forms, so all that is needed from that is to get the Form ID. The Form ID is the random string between "/d/" and "/edit" in the web address of the EDIT version of the form (if the PUBLISHED version of the form is used, the ID will not work). 
-Example: The Form ID of "https://docs.google.com/forms/d/abcdefghij/edit" would be "abcdefghij".
-
-As for the other things, there are 3 critical pieces to the program:
-1. A Google Sheets with tutor names and their corresponding emails. In order for the tutoring program to be compatible with this Sheets document, the tutors' names need to be in column A and their emails in column B. In the "CODE" document, the Sheets ID (found in the same way as the Form ID, above) is stored in the variable "tutorEmailSpreadsheetId" in the "programTest()" function at the bottom.
-2. Another Google Sheets is also needed, but this time for the appointment time slots. This document is structured as follows: 
