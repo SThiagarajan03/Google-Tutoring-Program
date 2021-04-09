@@ -1,0 +1,31 @@
+Sources Used (in link format):
+1. https://developers.google.com/apps-script/reference/forms
+2. https://developers.google.com/apps-script/reference/forms/text-item
+3. https://developers.google.com/apps-script/reference/forms/time-item
+4. https://developers.google.com/apps-script/reference/forms/paragraph-text-item
+5. https://developers.google.com/apps-script/reference/forms/form-response
+6. https://developers.google.com/apps-script/guides/sheets
+7. https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app
+8. https://developers.google.com/apps-script/guides/logging
+9. https://developers.google.com/apps-script/articles/sending_emails
+10. https://stackoverflow.com/questions/51256409/google-apps-script-google-form-go-to-section-based-on-answer
+11. https://gist.github.com/rheajt/bde0edcbdf99c8d437aee821674f8821
+12. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getDay
+13. https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet#getSheetByName(String)
+14. https://www.w3schools.com/jsref/jsref_substring.asp
+15. https://www.w3schools.com/jsref/jsref_parseint.asp
+16. https://stackoverflow.com/questions/45888328/changing-background-color-of-specific-cell-on-google-sheet
+17. https://blog.ohheybrian.com/2020/05/add-a-google-meet-to-calendar-events-with-google-apps-script/
+18. https://stackoverflow.com/questions/63930671/how-to-add-a-google-meet-link-to-a-new-google-calendar-event-using-a-google-apps
+19. https://www.w3schools.com/js/js_random.asp
+20. https://stackoverflow.com/questions/36507159/how-to-set-the-timezone-to-america-new-york-regardless-of-browser-timezone-m
+21. https://stackoverflow.com/questions/15926676/google-calendar-api-bad-request-400-event-over-developer-console (how to troubleshoot)
+22. https://developers.google.com/apps-script/advanced/calendar
+23. https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
+24. https://www.w3schools.com/jsref/jsref_push.asp
+25. https://developers.google.com/apps-script/reference/forms/date-time-item
+26. https://stackoverflow.com/questions/39319514/how-to-add-other-users-to-a-calendar
+27. https://www.w3schools.com/jsref/jsref_tostring_number.asp
+28. https://stackoverflow.com/questions/27241007/how-do-i-delete-individual-responses-in-formapp
+29. https://developers.google.com/apps-script/reference/forms/form#deleteAllResponses()
+30. https://developers.google.com/apps-script/reference/forms/multiple-choice-item
