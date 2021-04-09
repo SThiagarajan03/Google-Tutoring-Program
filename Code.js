@@ -32,7 +32,7 @@ function createGoogleForms() {
 
   googleForm.addMultipleChoiceItem()
   .setTitle('Who would you like to be tutored by?')
-  .setChoiceValues(['Pythagoras', 'Sting']);
+  .setChoiceValues(['Tutor 1', 'Tutor 2']);
 
   googleForm.addParagraphTextItem()
   .setTitle('Please provide some information on what you would like to be tutored in.');
@@ -44,7 +44,7 @@ function createGoogleForms() {
 
   googleForm.addMultipleChoiceItem()
   .setTitle('Who would you like to be tutored by?')
-  .setChoiceValues(['Pythagoras', 'Sting']);
+  .setChoiceValues(['Tutor 1', 'Tutor 2']);
 
   googleForm.addParagraphTextItem()
   .setTitle('Please provide some information on what you would like to be tutored in.');
@@ -55,7 +55,7 @@ function createGoogleForms() {
 
   googleForm.addMultipleChoiceItem()
   .setTitle('Who would you like to be tutored by?')
-  .setChoiceValues(['Pythagoras', 'Sting']);
+  .setChoiceValues(['Tutor 1', 'Tutor 2']);
 
   googleForm.addParagraphTextItem()
   .setTitle('Please provide some information on what you would like to be tutored in.');
@@ -66,7 +66,7 @@ function createGoogleForms() {
 
   googleForm.addMultipleChoiceItem()
   .setTitle('Who would you like to be tutored by?')
-  .setChoiceValues(['Pythagoras', 'Sting']);
+  .setChoiceValues(['Tutor 1', 'Tutor 2']);
 
   googleForm.addParagraphTextItem()
   .setTitle('Please provide some information on what you would like to be tutored in.');
@@ -77,7 +77,7 @@ function createGoogleForms() {
 
   googleForm.addMultipleChoiceItem()
   .setTitle('Who would you like to be tutored by?')
-  .setChoiceValues(['Pythagoras', 'Sting']);
+  .setChoiceValues(['Tutor 1', 'Tutor 2']);
 
   googleForm.addParagraphTextItem()
   .setTitle('Please provide some information on what you would like to be tutored in.');
@@ -88,7 +88,7 @@ function createGoogleForms() {
 
   googleForm.addMultipleChoiceItem()
   .setTitle('Who would you like to be tutored by?')
-  .setChoiceValues(['Pythagoras', 'Sting']);
+  .setChoiceValues(['Tutor 1', 'Tutor 2']);
 
   googleForm.addParagraphTextItem()
   .setTitle('Please provide some information on what you would like to be tutored in.');
@@ -234,12 +234,12 @@ function updateSpreadsheet(results, spreadsheetId) { // results is returned from
 // Source Used: 19
 function generateId() {
   let alphabet = 'abcdefghijklmnopqrstuvwxyz';
-  id1 = alphabet[Math.floor(Math.random() * 26)];
-  id2 = alphabet[Math.floor(Math.random() * 26)];
-  id3 = alphabet[Math.floor(Math.random() * 26)];
-  id4 = Math.floor(Math.random() * 10);
-  id5 = Math.floor(Math.random() * 10);
-  id6 = Math.floor(Math.random() * 10);
+  let id1 = alphabet[Math.floor(Math.random() * 26)];
+  let id2 = alphabet[Math.floor(Math.random() * 26)];
+  let id3 = alphabet[Math.floor(Math.random() * 26)];
+  let id4 = Math.floor(Math.random() * 10);
+  let id5 = Math.floor(Math.random() * 10);
+  let id6 = Math.floor(Math.random() * 10);
   return id1 + id2 + id3 + id4 + id5 + id6
 }
 
