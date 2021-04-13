@@ -11,6 +11,6 @@ Each step after step 1 is automated; that is, the program takes over and does ea
 
 The code (written in JavaScript, through the Apps Script Editor) has functions for each step, along with a few extra functions for accomplishing sub-tasks. Their purpose will become obvious once the code is viewed.
 
-There is another document titled "SOURCES" which contains links to all documentation and websites that were used to assist with code development. In addition, each function in the actually code has a preliminary comment explaining what specific sources were used to make that function.
+There is another document titled "SOURCES" which contains links to all documentation and websites that were used to assist with code development. In addition, each function in the actual code has a preliminary comment explaining what specific sources were used to make that function.
 
-There is also a folder titled "FORM, SPREADSHEETS, CALENDAR" that includes information on how to set up spreadsheets and other documents that the code will then take dat from and update as part of the tutoring process.
+There is also a folder titled "Form, Spreadsheets, Calendar" that includes information on how to set up spreadsheets and other documents that the code will then take data from and update as part of the tutoring process.
